@@ -30,7 +30,7 @@ Before that I spent five years building the MIS function from scratch at S.S. En
 | Project | The problem it solves | Stack |
 |---|---|---|
 | [PI to Production Automation](https://github.com/Gulshan-bot/pi-to-production-automation) | One click turns a confirmed Proforma Invoice into the customer PDF *and* item-level rows in the correct production sheet. Nobody retypes the order. | Apps Script, Sheets |
-| [Payment Health & Retention](https://github.com/Gulshan-bot/Customer-Retention-Revenue-Leakage-Analysis-Project) | Where revenue leaks: late payments, failed collections and churn by segment, across **₹6.37M** in collections. | Power BI, DAX |
+| [Payment Health & Retention](https://github.com/Gulshan-bot/payment-health-retention-analysis) | Where revenue leaks: late payments, failed collections and churn by segment, across **₹6.37M** in collections. | Power BI, DAX |
 | [Zepto Sales & Inventory](https://github.com/Gulshan-bot/zepto-sales-inventory-powerbi) | **3,730+ products**, 20+ DAX measures, ABC classification and drill-through across a 3-page dashboard. | Power BI, DAX |
 | [HR & Payroll MIS](https://github.com/Gulshan-bot/hr-payroll-mis-dashboard) | 5-module HR system for **106 employees**: attendance, PF/ESI/LOP/PT payroll, and one-click auto-payslips. | Excel, Power Query |
 | [Snitch Fashion Sales (SQL)](https://github.com/Gulshan-bot/snitch-fashion-sales-sql) | Normalised 3-table MySQL schema and 25+ queries, from basic retrieval to multi-dimensional sales analysis. | MySQL |
